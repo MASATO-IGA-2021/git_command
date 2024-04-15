@@ -8,7 +8,7 @@ Gitへの理解を深めるために作成
 
 #TO DO
 * [ ] git rebaseコマンド
-* [ ] git stashコマンド
-* [ ] git mergeコマンド
+* [x] git stashコマンド
+* [x] git mergeコマンド
 * [ ] git fetchコマンド
 * [x] git rm --cacheコマンド
