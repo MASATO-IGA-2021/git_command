@@ -1,7 +1,7 @@
 Gitへの理解を深めるために作成
 
 #TO DO 
-* [ ] pull requestの作成
+* [x] pull requestの作成
 * [ ] wikiの記入
 * [ ] issueの利用
 
@@ -11,4 +11,4 @@ Gitへの理解を深めるために作成
 * [ ] git stashコマンド
 * [ ] git mergeコマンド
 * [ ] git fetchコマンド
-* [ ] git rm --cacheコマンド
+* [x] git rm --cacheコマンド
