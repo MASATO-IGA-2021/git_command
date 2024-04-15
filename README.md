@@ -12,3 +12,4 @@ Gitへの理解を深めるために作成
 * [ ] git mergeコマンド
 * [ ] git fetchコマンド
 * [x] git rm --cacheコマンド
+* [x] git revertコマンド
